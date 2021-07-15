@@ -1,0 +1,2 @@
+rootProject.name = "News Feeder"
+include ':app'
